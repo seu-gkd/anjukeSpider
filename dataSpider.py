@@ -32,7 +32,7 @@ def get_region_data():
     f = open(os.getcwd() + "/data/info/city_dict.json", 'r', encoding='utf-8')
     dict = json.loads(f.read())
     f.close()
-    provinces = ['安徽','福建','甘肃','广东','广西','贵州','河北','河南','黑龙江','湖北','湖南','江苏','江西','辽宁','内蒙古','宁夏','青海','山东','山西','陕西','四川','西藏','新疆','云南','浙江']
+    provinces = ['河南','黑龙江','湖北','湖南','江苏','江西','辽宁','内蒙古','宁夏','青海','山东','山西','陕西','四川','西藏','新疆','云南','浙江']
     for province in provinces:
         print(province)
         f = open(os.getcwd() + "/data/{0}_url.txt".format(province), "r", encoding='utf-8')

@@ -1,0 +1,5 @@
+江西,鹰潭,月湖,http://www.anjuke.com/fangjia/yingtan/yuehu/
+江西,鹰潭,贵溪,http://www.anjuke.com/fangjia/yingtan/guixi/
+江西,鹰潭,余江,http://www.anjuke.com/fangjia/yingtan/yujiang/
+江西,鹰潭,龙虎山,http://www.anjuke.com/fangjia/yingtan/longhushan/
+江西,鹰潭,其他,http://www.anjuke.com/fangjia/yingtan/yingtanqita/

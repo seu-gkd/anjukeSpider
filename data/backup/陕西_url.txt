@@ -1,0 +1,14 @@
+陕西,西安,雁塔,http://www.anjuke.com/fangjia/xa/yantaqu/
+陕西,西安,未央,http://www.anjuke.com/fangjia/xa/weiyangq/
+陕西,西安,长安,http://www.anjuke.com/fangjia/xa/changanb/
+陕西,西安,碑林,http://www.anjuke.com/fangjia/xa/beilinqu/
+陕西,西安,莲湖,http://www.anjuke.com/fangjia/xa/lianhuqu/
+陕西,西安,新城,http://www.anjuke.com/fangjia/xa/xinchengqu/
+陕西,西安,灞桥,http://www.anjuke.com/fangjia/xa/baqiaoqu/
+陕西,西安,高陵,http://www.anjuke.com/fangjia/xa/gaoling/
+陕西,西安,鄠邑,http://www.anjuke.com/fangjia/xa/huyiqu/
+陕西,西安,临潼,http://www.anjuke.com/fangjia/xa/lintongqu/
+陕西,西安,蓝田,http://www.anjuke.com/fangjia/xa/lantianxian/
+陕西,西安,阎良,http://www.anjuke.com/fangjia/xa/yanliangqu/
+陕西,西安,周至,http://www.anjuke.com/fangjia/xa/zhouzhixian/
+陕西,西安,西安周边,http://www.anjuke.com/fangjia/xa/xianzhoubianc/

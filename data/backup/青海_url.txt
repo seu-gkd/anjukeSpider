@@ -1,0 +1,13 @@
+青海,海南,共和,http://www.anjuke.com/fangjia/hainan/gonghexian/
+青海,海南,同德,http://www.anjuke.com/fangjia/hainan/tongdexian/
+青海,海南,贵德,http://www.anjuke.com/fangjia/hainan/guidexian/
+青海,海南,兴海,http://www.anjuke.com/fangjia/hainan/xinghaixian/
+青海,海南,贵南,http://www.anjuke.com/fangjia/hainan/guinanxian/
+青海,海南,海南周边,http://www.anjuke.com/fangjia/hainan/hainanzhoubian/
+青海,玉树,玉树,http://www.anjuke.com/fangjia/yushu/yushux/
+青海,玉树,杂多,http://www.anjuke.com/fangjia/yushu/zaduo/
+青海,玉树,称多,http://www.anjuke.com/fangjia/yushu/chengduo/
+青海,玉树,治多,http://www.anjuke.com/fangjia/yushu/zhiduo/
+青海,玉树,囊谦,http://www.anjuke.com/fangjia/yushu/nangqian/
+青海,玉树,曲麻莱,http://www.anjuke.com/fangjia/yushu/qumalai/
+青海,玉树,玉树周边,http://www.anjuke.com/fangjia/yushu/yushuzhoubian/
