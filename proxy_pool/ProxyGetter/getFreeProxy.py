@@ -34,7 +34,7 @@ class GetFreeProxy(object):
     @staticmethod
     def buy1():
         sleep(1)
-        url = "http://api3.xiguadaili.com/ip/?tid=559715404442296&num=1000&operator=1&delay=3&area=安徽&protocol=https"
+        url = "http://api3.xiguadaili.com/ip/?tid=559121592214041&num=1000&delay=3&protocol=https"
         rsp = requests.get(url)
         proxy_list = rsp.text.split('\r\n')
         for proxy in proxy_list:
@@ -43,7 +43,7 @@ class GetFreeProxy(object):
     @staticmethod
     def buy2():
         sleep(2)
-        url = "http://api3.xiguadaili.com/ip/?tid=559715404442296&num=1000&operator=1&delay=3&area=山东&protocol=https"
+        url = "http://api3.xiguadaili.com/ip/?tid=559121592214041&num=1000&delay=3&area=浙江&protocol=https&exclude_ports=8088,9999"
         rsp = requests.get(url)
         proxy_list = rsp.text.split('\r\n')
         for proxy in proxy_list:
@@ -52,7 +52,7 @@ class GetFreeProxy(object):
     @staticmethod
     def buy3():
         sleep(3)
-        url = "http://api3.xiguadaili.com/ip/?tid=559715404442296&num=1000&operator=1&delay=3&area=江苏&protocol=https"
+        url = "http://api3.xiguadaili.com/ip/?tid=559121592214041&num=1000&delay=3&area=江苏&protocol=https&exclude_ports=8088,9999"
         rsp = requests.get(url)
         proxy_list = rsp.text.split('\r\n')
         for proxy in proxy_list:
@@ -61,7 +61,7 @@ class GetFreeProxy(object):
     @staticmethod
     def buy4():
         sleep(4)
-        url = "http://api3.xiguadaili.com/ip/?tid=559715404442296&num=1000&operator=1&protocol=https"
+        url = "http://api3.xiguadaili.com/ip/?tid=559121592214041&num=1000&delay=3&area=安徽&protocol=https&exclude_ports=8088,9999"
         rsp = requests.get(url)
         proxy_list = rsp.text.split('\r\n')
         for proxy in proxy_list:

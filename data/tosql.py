@@ -1,6 +1,6 @@
 import os
 with open('alldata.csv','a+',encoding='utf-8') as target:
-    count = 0
+    count = 20000
     target.write('year,mouth,province,city,citylevel,longitude,twist,houseprice,proportion,inc,inc_2,pricehistoryId\n')
     provinces = ['直辖市','江苏','安徽','福建','甘肃','广东','广西','贵州','河北','河南','黑龙江','湖北','湖南','江西','辽宁','内蒙古','宁夏','青海','山东','山西','陕西','四川','西藏','新疆','云南','浙江']
     for province in provinces:
